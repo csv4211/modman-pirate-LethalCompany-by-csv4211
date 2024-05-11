@@ -11,7 +11,7 @@ modman-LethalCompany-(pirate)-by-csv4211 is a simple mod manager for the game Le
 There is a ready-made solution called (r2modman(not advertising)), but in my opinion, it seemed unclear, complex, and inconvenient, so I decided to create my own mod manager, which is extremely easy to use.  
 
 Now the program is at the intermediate stage of pre-release Alfa 0.0.7.2 and looks like this:  
-![image](https://sun9-64.userapi.com/impg/bjZ7U0oF0bA3AUCUsnyGvdaxMC5u4imrebKRLg/a6Ob_2893GA.jpg?size=447x188&quality=96&sign=a346ae60e76eca0627a7289b991f8fb8&type=album)  
+![image](https://sun9-47.userapi.com/impg/gFd8umDZZVWNvHqlOf-pYDT6amwizGvU3odeGQ/JXKjDF9RVUY.jpg?size=451x189&quality=96&sign=63eb4742e7df45dabbb7ad206efc9d0c&type=album)  
 
 There is also a version for steam of Lethal Company. [steam version](https://github.com/csv4211/modman-steam-LethalCompany-by-csv4211)
 
