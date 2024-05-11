@@ -11,7 +11,7 @@ modman-LethalCompany-(pirate)-by-csv4211 это простой мод-менед
 Есть готовое решение, называемое (r2modman(не реклама)), но, по моему мнению, оно показалось мне непонятным, сложным и неудобным, поэтому я решил создать свой мод-менеджер, который крайне прост в использовании.  
 
 Сейчас программа находится на стадии pre-release Alfa 0.0.7.2 и выглядит следующим образом: 
-![image](https://sun9-35.userapi.com/impg/VqvJKF99IXC5lB9zO5bQdCJ9hLL1JrNvMwInUQ/JjJ2OTl8qwY.jpg?size=457x190&quality=96&sign=b845fc5fc9da0c3978051760f62799f3&type=album)  
+![image](https://sun9-60.userapi.com/impg/cp_j2hJN0VtEeCA16W2HrkRRdHQIdqXWD9jWBA/yICJOyJMLwc.jpg?size=456x188&quality=96&sign=122786f1f300359d942609d179290fe8&type=album)  
 
 Так же есть версия для steam Lethal Company. [steam версия](https://github.com/csv4211/modman-steam-LethalCompany-by-csv4211)
 
