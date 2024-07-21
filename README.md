@@ -6,7 +6,7 @@ README: [RU](/README_ru.md) | [US](/README_us.md)
 modman-LethalCompany-(steam)-by-csv4211 - [steam version](https://github.com/csv4211/modman-steam-LethalCompany-by-csv4211)  
 modman-LethalCompany-(pirate)-by-csv4211 - [pirate version](https://github.com/csv4211/modman-pirate-LethalCompany-by-csv4211) (this repository)  
 
-# At the moment, I am forced to announce that support for the pirated version has been suspended indefinitely, which means that during this period, updates for the pirated version will not be released (changes do not apply to the steam version)
+# At the moment, I am forced to announce that support for the pirated version has been suspended indefinitely, which means that during this period, updates for the pirated version will not be released (changes do not apply to the [steam version](https://github.com/csv4211/modman-steam-LethalCompany-by-csv4211))
 
 modman-LethalCompany-(pirate)-by-csv4211 is a simple mod manager for the game Lethal Company.  
 
